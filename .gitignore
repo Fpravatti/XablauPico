@@ -1,0 +1,5 @@
+﻿*
+!dist/
+!dist/XablauPicoClient.exe
+!version.json
+!.gitignore
